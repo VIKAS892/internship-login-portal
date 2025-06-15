@@ -27,7 +27,7 @@ src/
 npm install
 npm start
 
-👨‍💻 Tech Stack
+## 👨‍💻 Tech Stack
 React.js (Frontend)
 
 JavaScript
